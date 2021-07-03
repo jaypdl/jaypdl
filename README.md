@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the backend for [a service tracker for Family Promise](https://github.com/Lambda-School-Labs/family-promise-service-tracker-be-a)
 
-- 🌱 I’m currently planning on learning **MongoDB, Docker, AWS**
+- 🌱 I’m currently planning on learning **TypeScript, MongoDB, Docker, AWS**
 
 - 📄 Take a look at my [resume!](https://docs.google.com/document/d/1wX0MsflA9ZA5BLr-Ss3XU6s9q0JEiJ-lFpET-wu_2EA/edit?usp=sharing)
 
