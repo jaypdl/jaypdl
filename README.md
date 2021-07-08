@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Jay!</h1>
-<h3 align="center">I'm a Full-stack Web Developer, that has recently graduated from Lambda School. I'm passionate about creating experiences that can make a difference. </h3>
+<h3 align="center">I'm a Full-stack Web Developer that has recently graduated from Lambda School. I'm passionate about creating experiences that can make a difference. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypdl&label=Profile%20views&color=0e75b6&style=flat" alt="jaypdl" /> </p>
 
