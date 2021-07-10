@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypdl&label=Profile%20views&color=0e75b6&style=flat" alt="jaypdl" /> </p>
 
 
-- 🔭 I’m currently working on my Portfolio site while learning Next.js
+- 🔭 I’m currently working on learning **TypeScript**, **GraphQL**, and **testing** with **Mocha** and **Chai**
 
 - 🧙‍♂️ I recently worked on the backend for [a service tracker for Family Promise](https://github.com/jaypdl/family-promise-service-tracker-be-a) during a one month internship
 
-- 🌱 I’m currently planning on learning **Next.js, TypeScript, MongoDB, Docker, AWS**
+<!-- - 🌱 I’m currently planning on learning **Next.js, TypeScript, GraphQL, MongoDB, Docker, AWS** -->
 
 - 📄 Take a look at my [resume!](https://docs.google.com/document/d/1wX0MsflA9ZA5BLr-Ss3XU6s9q0JEiJ-lFpET-wu_2EA/edit?usp=sharing)
 
 - 💬 Ask me about **React, Redux, Node, Express, and PostgreSQL**
 
-- 📫 How to reach me **jayponcedeleon@gmail.com**
+- 📫 You can reach me at **jayponcedeleon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
