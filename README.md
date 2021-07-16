@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypdl&label=Profile%20views&color=0e75b6&style=flat" alt="jaypdl" /> </p>
 
 
-- 🔭 I’m currently working on learning **TypeScript**, **GraphQL**, and **testing** with **Mocha** and **Chai**
+- 🔭 I’m currently working on learning **TypeScript**, **GraphQL**, **Next.js**, and **testing** with **Mocha** and **Chai**
 
 - 🧙‍♂️ I recently worked on the backend for [a service tracker for Family Promise](https://github.com/jaypdl/family-promise-service-tracker-be-a) during a one month internship
 
